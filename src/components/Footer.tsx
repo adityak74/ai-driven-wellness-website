@@ -16,7 +16,7 @@ const Footer = () => {
             </div>
             <p className="text-gray-400 leading-relaxed mb-6 max-w-md">
               The definitive guide to the convergence of AI, traditional medicine, and modern healthcare. 
-              58 years of combined expertise distilled into actionable insights for the future of wellness.
+              41+ years of combined expertise distilled into actionable insights for the future of wellness.
             </p>
             <a
               href="https://www.amazon.com/AI-DRIVEN-WELLNESS-Convergence-Traditional-Healthcare/dp/1966212674"
@@ -54,7 +54,7 @@ const Footer = () => {
             <div className="space-y-4">
               <div className="flex items-center space-x-2 text-gray-400">
                 <Mail size={16} />
-                <span className="text-sm">media@ai-driven-wellness.com</span>
+                <span className="text-sm">aidrivenwellnessbook@outlook.com</span>
               </div>
               
               <div className="flex space-x-4">

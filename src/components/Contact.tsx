@@ -34,7 +34,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-900 mb-2 text-xl">Email Us</h4>
-                  <p className="text-gray-600 mb-2">media@ai-driven-wellness.com</p>
+                  <p className="text-gray-600 mb-2">aidrivenwellnessbook@outlook.com</p>
                   <p className="text-sm text-gray-500">Response within 24 hours</p>
                 </div>
               </div>
