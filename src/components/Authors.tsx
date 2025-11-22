@@ -103,7 +103,7 @@ const Authors = () => {
           <div className="max-w-4xl mx-auto">
             <div className="grid md:grid-cols-3 gap-8 items-center">
               <div>
-                <div className="text-4xl font-black mb-2">41+</div>
+                <div className="text-4xl font-black mb-2">58+</div>
                 <div className="text-red-200">Years Combined Experience</div>
               </div>
               
