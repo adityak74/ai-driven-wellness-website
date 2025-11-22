@@ -16,7 +16,7 @@ const Footer = () => {
             </div>
             <p className="text-gray-400 leading-relaxed mb-6 max-w-md">
               The definitive guide to the convergence of AI, traditional medicine, and modern healthcare. 
-              41+ years of combined expertise distilled into actionable insights for the future of wellness.
+              58+ years of combined expertise distilled into actionable insights for the future of wellness.
             </p>
             <a
               href="https://www.amazon.com/AI-DRIVEN-WELLNESS-Convergence-Traditional-Healthcare/dp/1966212674"
